@@ -5,9 +5,9 @@ public class mapDemo {
 	
 		//Hashmap
 		HashMap<Integer,String> hm=new HashMap<Integer,String>();      
-	      hm.put(1,"harsha");    
-	      hm.put(2,"vardhani");    
-	      hm.put(3,"mallika");   
+	      hm.put(1,"harika");    
+	      hm.put(2,"marella");    
+	      hm.put(3,"harika");   
 	       
 	      System.out.println("\nThe elements of Hashmap are ");  
 	      for(Map.Entry m:hm.entrySet()){    
