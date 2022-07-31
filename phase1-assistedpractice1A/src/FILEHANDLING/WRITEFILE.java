@@ -6,7 +6,7 @@ import java.io.IOException;
 public class WRITEFILE {
 
 	public static void main(String[] args) {
-		String data ="1, harsha,tenali ,AP";
+		String data ="1, harika,guntur ,AP";
 		
 		try {
 			FileWriter output = new FileWriter("newdata.txt");
